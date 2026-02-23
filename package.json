@@ -1,0 +1,21 @@
+{
+  "name": "friday_live_coding",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/redblade31/Friday_Live_Coding#readme",
+  "bugs": {
+    "url": "https://github.com/redblade31/Friday_Live_Coding/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redblade31/Friday_Live_Coding.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch sass/style.scss sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
